@@ -1,0 +1,97 @@
+body {
+        background-color: rgb(66, 3, 3);
+        color: white;
+}
+.topnav {
+        background-color: white;
+        height: 30px;
+        overflow: visible;
+}
+.topnav a {
+        float: right;
+        display: block;
+        text-align: center;
+        font-size: 17px;
+        text-decoration:none ;
+}
+
+.navbar-top{
+        float: right;
+        color: white;
+        background-color: white;
+        text-align: center;
+        font-size: 30px;
+        padding-right: 20px;
+        
+}
+.index{
+        text-align: center;
+        margin-top: 10%;
+}
+.para1{
+        font-family: sans-serif;
+}
+.heading1{
+        font-size: 50px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+#head{
+        font-size: 10px;
+}
+.p1{
+        color: rgb(16, 222, 236);
+        font-size: 30px;
+        font-family: cursive;
+}
+.sign{
+        background-color: blue;
+        color: white;
+        border-radius: 20px;
+        padding: 8px;
+        width:150px;
+        
+}
+.tryit{
+        background-color: rgb(236, 12, 87);
+        color: white;
+        border-radius: 20px;
+        padding: 8px;
+        width: 150px;
+}
+.login{
+        text-align: center;
+
+}
+#email{
+    margin:30px; 
+    height: 20px;
+       
+}
+#password{
+        margin-bottom: 30px;
+        margin-left: 20px;
+        height: 20px;
+}
+.button{
+        margin-bottom: 20px;
+}
+.img-icon {
+        width:40px;
+        height: 50px;
+        background-color: white;
+}
+.first {
+        margin: 10px;
+}
+.last {
+        margin: 10px;
+}
+.number {
+        margin: 10px;
+}
+.email {
+        margin: 10px;
+}
+.password {
+        margin: 10px;
+}
